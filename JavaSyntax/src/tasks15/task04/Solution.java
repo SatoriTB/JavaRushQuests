@@ -1,4 +1,4 @@
-package tasks15.tasks04;
+package tasks15.task04;
 
 import java.io.IOException;
 import java.io.InputStream;

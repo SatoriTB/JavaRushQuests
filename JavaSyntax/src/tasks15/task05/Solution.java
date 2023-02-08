@@ -1,4 +1,4 @@
-package tasks15.tasks05;
+package tasks15.task05;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
